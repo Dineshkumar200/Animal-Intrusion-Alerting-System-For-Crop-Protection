@@ -76,6 +76,24 @@ Upon detecting an animal intrusion, the system issues timely alerts to farmers t
 
 Overall, the Animal Intrusion Alerting System enhances security and surveillance in agricultural settings. By providing early warnings and enabling proactive management of wildlife intrusion, the system contributes to safeguarding crops and preserving agricultural livelihoods.
 
+## References
+[1]       Sabeenian, R., N. Deivanai, and B. Mythili. "Wild animals intrusion detection using deep learning techniques." Int. J. Pharm. Res 12, no. 4 (2020): 1053-1058.
+
+[2]         Ravoor, Prashanth C., T. S. B. Sudarshan, and Krishnan Rangarajan. "Digital Borders: Design of an Animal Intrusion Detection System Based on Deep Learning." In International Conference on Computer Vision and Image Processing, pp. 186-200. Singapore: Springer Singapore, 2020.
+
+[3]       Xue, Wenling, Ting Jiang, and Jiong Shi. "Animal intrusion detection based on convolutional neural network." In 2017 17th international symposium on communications and information technologies (ISCIT), pp. 1-5. IEEE, 2017.
+
+[4]	Jeevitha, S., and S. Vengatesh Kumar. "A study on sensor based animal intrusion alert system using image processing techniques." In 2019 Third International conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud)(I-SMAC), pp. 20-23. IEEE, 2019.
+
+[5]	Sayagavi, Ashwini V., T. S. B. Sudarshan, and Prashanth C. Ravoor. "Deep learning methods for animal recognition and tracking to detect intrusions." In Information and Communication Technology for Intelligent Systems: Proceedings of ICTIS 2020, Volume 2, pp. 617-626. Springer Singapore, 2021.
+
+[6]	Maheswari, P. Uma, and Anjali Rose Rajan. "Animal intrusion detection system using wireless sensor networks." International Journal of Advanced Research in Biology Engineering Science and Technology (IJARBEST) 2, no. 10 (2016).
+
+[7]	Jeevitha, S., and Venkatesh Kumar. "A review of animal intrusion detection system." Int. J. Eng. Res. Technol 9, no. 5 (2020): 1219-1221.
+
+[8]        Patil, Hardiki Deepak, and Namrata Farooq Ansari. "Intrusion detection and repellent system for wild animals using artificial intelligence of things." In 2022 International Conference on Computing, Communication and Power Technology (IC3P), pp. 291-296. IEEE, 2022.
+
+
 
 
 
